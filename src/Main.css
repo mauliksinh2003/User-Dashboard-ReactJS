@@ -1,0 +1,14 @@
+.Component:hover{
+    background-color: #E3E1D9;
+}
+
+.Component{
+    width: 100%;
+    text-align: center;
+    color: #fff;
+    background-color: #B5C0D0;
+    border: 3px solid transparent;
+    border-radius: 10px;
+    /* margin : 10px ; */
+    padding: 25px;
+}       
